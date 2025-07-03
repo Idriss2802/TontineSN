@@ -1,0 +1,27 @@
+header,
+footer {
+  width: 100%;
+}
+
+footer {
+  position: relative;
+}
+
+.divider {
+  position: absolute;
+  width: 75%;
+  margin-left: 7%;
+  border-top: 1px solid rgb(245, 243, 243);
+  top: 22%;
+}
+
+.hero {
+  background: linear-gradient(to right, #0d6efd, #6610f2);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+.card img {
+  height: 190px;
+  object-fit: cover;
+}
